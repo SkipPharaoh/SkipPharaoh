@@ -4,6 +4,8 @@ I am a Software Engineer from NYC! I have developed a huge interest in building 
 
 Check out what i'm currently up to here!
 
+## Digital Home
+
 ## Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/skippharaoh/)
 - [Twitter](https://twitter.com/SKIP_Pharaoh)
