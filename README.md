@@ -6,6 +6,8 @@ Check out what i'm currently up to here!
 
 ## Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/skippharaoh/)
+- [Twitter](https://twitter.com/SKIP_Pharaoh)
+- [Email](caniggiathompson@gmail.com)
 <!--
 **SkipPharaoh/SkipPharaoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
