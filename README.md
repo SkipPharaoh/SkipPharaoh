@@ -1,15 +1,15 @@
 ### Hi there 👋
 
-I am a Software Engineer from NYC! I have developed a huge interest in building open source software solutions using Javascript, ReactJS, NodeJS, & Python.This huge fascination stems from my habit of watching CNBC and my love of reading up on the latest technological R&D. I am highly interested in providing skills to a company within the fintech, investment, or technology industry.
+I am a Software Engineer from NYC! I have a huge interest in building open source software solutions using Javascript, ReactJS, NodeJS, & Python. This huge fascination stems from my habit of watching CNBC and my love of reading up on the latest technological R&D. I am highly interested in providing skills to a company within the fintech, investment, or technology industry. 
 
 Check out what i'm currently up to here!
 
 ## Digital Home
+Need to see my projects, resume, and/or to learn more about me, click [here]()
 
-## Connect With Me
+## 📫 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/skippharaoh/)
 - [Twitter](https://twitter.com/SKIP_Pharaoh)
-- [Email](caniggiathompson@gmail.com)
 <!--
 **SkipPharaoh/SkipPharaoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
