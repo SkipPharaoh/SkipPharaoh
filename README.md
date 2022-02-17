@@ -1,5 +1,3 @@
-![GitHub language count](https://img.shields.io/github/languages/count/SkipPharaoh/SkipPharaoh?color=ff0000&style=plastic)
-![GitHub forks](https://img.shields.io/github/forks/SkipPharaoh/SkipPharaoh?logoColor=ff0000&style=social)
 ### Hi there 👋
 
 I am a Software Engineer originally from NYC! I have a huge interest in building open source software solutions using Javascript, ReactJS, NodeJS, & Python. In my spare time, I’m either building on my software developer skillsets, watching CNBC or reading up on the latest technological R&D. I am highly interested in providing skills to a company within the fintech, investment, or technology industry. 
