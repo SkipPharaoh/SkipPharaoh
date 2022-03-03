@@ -1,5 +1,5 @@
 <!-- Headline -->
-<img alt="Header" src="assets/readme_header.gif"></img>
+<img alt="Header" src="Assets/readme_header.gif"></img>
 
 <!-- Text Under Headline -->
 ## 👨🏾‍💻About Me:
