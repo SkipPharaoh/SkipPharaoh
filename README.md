@@ -20,7 +20,7 @@ Check out what I'm currently up to here!
 
 <!-- Link To My Main Site -->
 ## Digital Home
-Need to see my projects, resume, and/or to learn more about me, click [here]()
+Need to see my projects, resume, and/or to learn more about me, click [here](https://www.caniggiathompson.com/)
 
 
 
