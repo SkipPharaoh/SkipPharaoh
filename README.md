@@ -2,7 +2,7 @@
 <img alt="Header" src="Assets/readme_header.gif"></img>
 
 <!-- Text Under Headline -->
-## 👨🏾‍💻About Me:
+## 👨🏾‍💻 About Me:
 I am Caniggia Thompson, a Software Engineer with full-stack experience! I have a huge interest in building open source software solutions using Javascript, ReactJS, NodeJS, & Python. In my spare time, I’m either building on my software developer skillsets, watching CNBC or reading up on the latest technological R&D. I am highly interested in providing skills to a company within the fintech, investment, or technology industry. 
 
 Check out what I'm currently up to here!
@@ -19,7 +19,7 @@ Check out what I'm currently up to here!
 <br/>
 
 <!-- Link To My Main Site -->
-## Digital Home
+## 🏠 Digital Home
 Need to see my projects, resume, and/or to learn more about me, click [here](https://www.caniggiathompson.com/)
 
 
