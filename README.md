@@ -31,6 +31,7 @@ Need to see my projects, resume, and/or to learn more about me, click [here](htt
 </a>
 
 <br/>
+
 <hr>
 
 <!-- Statistics -->
