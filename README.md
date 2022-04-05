@@ -26,17 +26,19 @@ Need to see my projects, resume, and/or to learn more about me, click [here](htt
 
 <hr>
 <!-- Most Used Languages Infograph then Tools & Languages -->
-<a href="https://github.com/SkipPharaoh">
-  <img align="center" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkipPharaoh&layout=compact&theme=chartreuse-dark" alt="Top languages" />
-</a>
+<div align="center" >
+  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkipPharaoh&layout=compact&theme=chartreuse-dark" alt="Top languages" />
+</div>
 
 <br/>
 
 <hr>
 
 <!-- Statistics -->
+<div align="center" >
+  <img src="https://github-readme-stats.vercel.app/api?username=skippharaoh&show_icons=true&theme=chartreuse-dark" />
+</div>
 
-![](https://github-readme-stats.vercel.app/api?username=skippharaoh&show_icons=true&theme=chartreuse-dark)
 <!--
 **SkipPharaoh/SkipPharaoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
