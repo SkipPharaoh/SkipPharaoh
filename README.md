@@ -26,7 +26,7 @@ Need to see my projects, resume, and/or to learn more about me, click [here](htt
 
 <hr>
 <!-- Most Used Languages Infograph then Tools & Languages -->
-<div align="center" >
+<div align="left" >
   <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkipPharaoh&layout=compact&theme=chartreuse-dark" alt="Top languages" />
 </div>
 
@@ -35,7 +35,7 @@ Need to see my projects, resume, and/or to learn more about me, click [here](htt
 <hr>
 
 <!-- Statistics -->
-<div align="center" >
+<div align="left" >
   <img src="https://github-readme-stats.vercel.app/api?username=skippharaoh&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats" />
 </div>
 
