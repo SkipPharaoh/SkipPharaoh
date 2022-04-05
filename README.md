@@ -36,7 +36,7 @@ Need to see my projects, resume, and/or to learn more about me, click [here](htt
 
 <!-- Statistics -->
 <div align="center" >
-  <img src="https://github-readme-stats.vercel.app/api?username=skippharaoh&show_icons=true&theme=chartreuse-dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=skippharaoh&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats" />
 </div>
 
 <!--
