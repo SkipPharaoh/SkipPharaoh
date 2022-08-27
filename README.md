@@ -1,6 +1,3 @@
-<!-- Headline -->
-<img alt="Header" src="Assets/readme_header.gif"></img>
-
 <!-- Text Under Headline -->
 ## 👨🏾‍💻 About Me:
 I am Caniggia Thompson, a Software Engineer specializing in Front-end Development! I have a huge interest in building open source software solutions using TypeScript, React, & Python. In my spare time, I’m either building on my software developer skillsets, watching CNBC or reading up on the latest technological R&D. I am currently providing my skills to OfferUp. 
