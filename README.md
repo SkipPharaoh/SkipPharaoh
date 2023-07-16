@@ -8,10 +8,10 @@ Check out what I'm currently up to here!
 ## 📫 Connect with me👇🏾 
 
 <a href="https://twitter.com/SKIP_Pharaoh">
-  <img align="left" alt="Caniggia Thompson | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Caniggia Thompson | Twitter" width="22px" src="https://avatars.githubusercontent.com/u/50278?s=200&v=4" />
 </a>
 <a href="https://www.linkedin.com/in/skippharaoh/">
-  <img align="left" alt="Caniggia Thompson | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Caniggia Thompson | LinkedIN" width="22px" src="https://avatars.githubusercontent.com/u/357098?s=200&v=4" />
 </a>
 <br/>
 
